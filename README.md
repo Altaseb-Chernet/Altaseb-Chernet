@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Altaseb Chernet</h1>
-<h3 align="center">A passionate Fullstack developer from Ethiopia</h3>
+<h3 align="center">A passionate Mernstack developer from Ethiopia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altaseb-chernet" alt="altaseb-chernet" /></a> </p>
 
