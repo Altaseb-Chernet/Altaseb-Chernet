@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Altaseb Chernet</h1>
-<div align="center"><img  width="50%" src="https://media.tenor.com/I5iY9Hj8YGQAAAAj/kroppa-digital.gif"></div>
+<div align="center"><img  width="30%" src="https://media.tenor.com/I5iY9Hj8YGQAAAAj/kroppa-digital.gif"></div>
 <h3 align="center">A passionate Mernstack developer from Ethiopia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altaseb-chernet" alt="altaseb-chernet" /></a> </p>
