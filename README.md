@@ -51,7 +51,8 @@
 ---
 
 
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/altaseb-chernet?theme=dark&bgColor=282828)
+![LeetCode Progress](https://img.shields.io/badge/LeetCode-45%25-orange)
+
 
 ---
 
