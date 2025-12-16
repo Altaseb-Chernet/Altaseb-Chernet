@@ -1,98 +1,148 @@
-<h1 align="center">Hi 👋, I'm Altaseb Chernet</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6">Altaseb Chernet</span></h1>
 
 <p align="center">
-  <img width="35%" src="https://media.tenor.com/rbEK88vmpygAAAAM/welcome.gif"/>
-  <img width="35%" src="https://media.tenor.com/I5iY9Hj8YGQAAAAj/kroppa-digital.gif"/>
+  <img width="36%" src="https://media.tenor.com/rbEK88vmpygAAAAM/welcome.gif"/>
+  <img width="36%" src="https://media.tenor.com/I5iY9Hj8YGQAAAAj/kroppa-digital.gif"/>
 </p>
 
-<h3 align="center">🚀 A Passionate MERN Stack Developer from Ethiopia</h3>
+<h3 align="center">🚀 Software Engineer | Full‑Stack Developer | Problem Solver</h3>
+<p align="center"><b>Building scalable web systems with clean architecture & modern tech</b></p>
 
 ---
 
-### 👨‍🎓 About Me  
-- 🔭 I’m currently studying **Software Engineering** at Debre Berhan University  
-- 🌱 I’m exploring **Python, React, and advanced JavaScript**  
-- 🤝 Open to collaborating on **Full-stack & AI-driven projects**  
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, SQL**  
-- 📫 Reach me at **altacher227@gmail.com**  
-- ⚡ Fun fact: **I love solving challenges & building creative projects 😁**  
+## 👨‍💻 About Me
+
+* 🎓 **Software Engineering** student at **Debre Berhan University**
+* 🧠 Strong in **Data Structures, Algorithms & System Design fundamentals**
+* 🌱 Currently deepening **Python, React, Next.js & backend architecture**
+* 🧩 Interested in **Full‑Stack, Backend, and AI‑assisted systems**
+* 🤝 Open to **internships, freelance work & collaborative projects**
+* 📫 **Email:** [altacher227@gmail.com](mailto:altacher227@gmail.com)
+* ⚡ Mindset: *Write clean code, ship real products, keep learning*
 
 ---
 
-### 🏆 GitHub Trophies  
+## 🧠 Core Competencies
+
+* **Frontend:** Responsive UI, accessibility, performance optimization
+* **Backend:** REST APIs, authentication, database modeling
+* **Databases:** SQL & NoSQL design, queries, indexing
+* **Engineering:** OOP, modular design, debugging, version control
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Programming Languages
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altaseb-chernet&theme=onedark&no-frame=true&row=1&column=6" alt="altaseb-chernet"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Frontend Development
+
 <p align="center">
-  <a href="https://github.com/altaseb-chernet" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
+
+---
+
+### 🧰 Tools & Workflow
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 📈 Coding Activity & Growth
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=altaseb-chernet&theme=github-compact&color=00ff00&line=00ff00&point=00ff00&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=altaseb-chernet&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaseb-chernet&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altaseb-chernet&theme=radical" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+* 👗 **Mashabesha Design – E‑Commerce Platform**
+  A full-stack international fashion marketplace for Ethiopian traditional clothing.
+  **Tech:** Next.js, React, Prisma, SQL/NoSQL, Auth, Payment-ready architecture
+  🔗 [https://github.com/Altaseb-chernet/mashabesha-design](https://github.com/Altaseb-chernet/mashabesha-design)
+
+* ⭐ **Portfolio Website** – Modern developer portfolio
+  🔗 [https://github.com/Altaseb-chernet/portfolio](https://github.com/Altaseb-chernet/portfolio)
+
+* 🍔 **Food Ordering Platform** – Full-stack system with admin dashboard
+  🔗 [https://github.com/Altaseb-chernet/food-ordering](https://github.com/Altaseb-chernet/food-ordering)
+
+* 🛺 **Bajaj Transport Management System** – C++ + SQL university project
+  🔗 [https://github.com/Altaseb-chernet/bajaj-management](https://github.com/Altaseb-chernet/bajaj-management)
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/altaseb-chernet">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:altacher227@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:altacher227@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
-</p>
-
----
-
-
-![LeetCode Progress](https://img.shields.io/badge/LeetCode-45%25-orange)
-
-
----
-
-### 💻 Tech Stack  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-
----
-
-### 🚀 Featured Projects  
-⭐ [**Portfolio Website**](https://github.com/Altaseb-chernet/portfolio) – A personal portfolio showcasing my work  
-🍔 [**Food Ordering Website**](https://github.com/Altaseb-chernet/food-ordering) – Full stack ordering system with admin dashboard  
-🛺 [**Bajaj Transport Management System**](https://github.com/Altaseb-chernet/bajaj-management) – University project in C++ with GUI + SQL backend  
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altaseb-chernet&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaseb-chernet&layout=compact&theme=radical" alt="languages" height="160"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="180"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Designer.gif" width="230"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altaseb-chernet&theme=radical" alt="streak"/>
+  <img src="https://img.shields.io/badge/Altaseb%20Chernet-Hireable%20Fullstack%20Developer-0e75b6?style=for-the-badge&logo=github" />
 </p>
 
----
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="200" alt="handshake gif">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Designer.gif" width="250" alt="designer gif">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Altaseb%20Chernet-Fullstack%20Developer-0e75b6?style=for-the-badge&logo=github" alt="badge"/>
-</p>
+<p align="center"><i>“Code is not just syntax — it’s problem solving made visible.”</i></p>
