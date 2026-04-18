@@ -9,6 +9,10 @@
 <p align="center"><b>Building scalable web systems with clean architecture & modern tech</b></p>
 
 ---
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=altaseb-chernet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+---
 
 ## 👨‍💻 About Me
 
