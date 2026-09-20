@@ -1,86 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=220&section=header&text=Altaseb%20Chernet&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Backend%20%7C%20DevOps&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=230&section=header&text=Altaseb%20Chernet&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20C%23%20%2F%20.NET%20%7C%20DevOps&descAlignY=56&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+%26+API+Engineer+(C%23+%2F+.NET);DevOps+%7C+Docker+%7C+Kubernetes+%7C+K3s;Turning+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;DevOps+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=altaseb-chernet&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Ethiopia-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Based%20in-Ethiopia-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<img width="70%" src="https://media.tenor.com/rbEK88vmpygAAAAM/welcome.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&width=1000"/>
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-- 🎓 **Software Engineering** student at **Debre Berhan University**
-- 🧠 Strong foundation in **Data Structures, Algorithms & System Design**
-- 🌱 Currently deepening **C#, ASP.NET Core, Docker, Kubernetes (K8s/K3s)** and cloud-native backend architecture
-- 🧩 Passionate about **Full-Stack, Backend, DevOps, and AI-assisted systems**
-- 🤝 Open to **internships, freelance work & collaborative projects**
-- 📫 Reach me at **[altacher227@gmail.com](mailto:altacher227@gmail.com)**
-- ⚡ Mindset: *Write clean code, ship real products, keep learning*
+I'm a **Software Engineering student at Debre Berhan University**, building complete products end-to-end — from database schema to a polished UI, packaged and deployed with modern DevOps tooling.
 
----
+- 🧠 Solid grounding in **Data Structures, Algorithms & System Design**
+- 🌱 Currently sharpening **C#, ASP.NET Core, and container orchestration (Docker, Kubernetes, K3s)**
+- 🎯 Focused on shipping **production-grade, scalable, well-architected systems**
+- 🤝 Open to **internships, freelance work & collaborative projects**
+- 📫 **[altacher227@gmail.com](mailto:altacher227@gmail.com)**
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6dd5fa,100:0e75b6&height=3&width=1000"/>
+</div>
 
 ## 🧠 Core Competencies
 
 <div align="center">
 
-| 🎨 Frontend | ⚙️ Backend | 🐳 DevOps | 🗄️ Databases |
+| 🎨 Interfaces | ⚙️ APIs & Services | 🐳 Infrastructure | 🗄️ Data |
 |:---:|:---:|:---:|:---:|
-| Responsive UI, accessibility, performance | REST & Web APIs, auth, clean architecture | Containers, orchestration, CI/CD | SQL & NoSQL design, indexing |
+| Responsive, accessible, fast UIs | Clean architecture, auth, REST/Web APIs | Containers, orchestration, CI/CD pipelines | SQL & NoSQL modeling, indexing |
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=3&width=1000"/>
+</div>
 
 ## 🛠️ Skills & Technologies
 
-### 👨‍💻 Programming Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,cs,cpp,java,js,ts&theme=dark&perline=6" height="80"/>
-</div>
 
-### 🌐 Frontend Development
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&theme=dark&perline=6" height="80"/>
-</div>
+<sub>**PROGRAMMING LANGUAGES**</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cs,py,cpp,java,js,ts&theme=dark&perline=6" height="85"/>
 
-### ⚙️ Backend Development & APIs
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,prisma,graphql,django&theme=dark&perline=6" height="80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=30&section=header" width="100%"/>
+
+<sub>**FRONTEND**</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&theme=dark&perline=6" height="85"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=30&section=header" width="100%"/>
+
+<sub>**BACKEND & APIs** — powering the frontend with clean, well-structured services</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,prisma,graphql,django&theme=dark&perline=6" height="85"/>
 
 <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-### 🗄️ Databases
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark&perline=5" height="80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=30&section=header" width="100%"/>
+
+<sub>**DATABASES**</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark&perline=5" height="85"/>
 <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</div>
 
-### ☁️ DevOps & Cloud-Native
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,bash&theme=dark&perline=6" height="80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=30&section=header" width="100%"/>
 
+<sub>**DEVOPS & CLOUD-NATIVE** — shipping and running it all reliably</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,bash&theme=dark&perline=6" height="85"/>
 <img src="https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=30&section=header" width="100%"/>
+
+<sub>**TOOLS & WORKFLOW**</sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vim&theme=dark&perline=6" height="85"/>
+
 </div>
 
-### 🧰 Tools & Workflow
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vim&theme=dark&perline=6" height="80"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6dd5fa,100:0e75b6&height=3&width=1000"/>
 </div>
-
----
 
 ## 📈 Coding Activity & Growth
 
@@ -97,7 +107,9 @@
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=3&width=1000"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -119,14 +131,16 @@
 
 </div>
 
-- 👗 **Mashabesha Design – E-Commerce Platform** — full-stack international fashion marketplace for Ethiopian traditional clothing. **Tech:** Next.js, React, Prisma, SQL/NoSQL, Auth, Payment-ready architecture
-- 🍔 **Food Ordering Platform** — full-stack system with admin dashboard
-- ⭐ **Portfolio Website** — modern developer portfolio
-- 🛺 **Bajaj Transport Management System** — C++ + SQL university project
+- 👗 **Mashabesha Design – E-Commerce Platform** — international fashion marketplace for Ethiopian traditional clothing, built with Next.js, React, Prisma, SQL/NoSQL, auth, and payment-ready architecture
+- 🍔 **Food Ordering Platform** — complete ordering system with an admin dashboard
+- ⭐ **Portfolio Website** — a modern developer portfolio
+- 🛺 **Bajaj Transport Management System** — C++ & SQL university project
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6dd5fa,100:0e75b6&height=3&width=1000"/>
+</div>
 
-## 🌍 Connect With Me
+## 🌍 Let's Connect
 
 <div align="center">
 
@@ -134,7 +148,9 @@
 <a href="mailto:altacher227@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/altaseb-chernet"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Altaseb%20Chernet-Hireable%20Fullstack%20%26%20DevOps%20Developer-0e75b6?style=for-the-badge&logo=github"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Altaseb%20Chernet-Full--Stack%20%26%20DevOps%20Engineer%2C%20Ready%20to%20Hire-0e75b6?style=for-the-badge&logo=github"/>
 
 <i>"Code is not just syntax — it's problem solving made visible."</i>
 
@@ -144,7 +160,7 @@
 
 <div align="center">
 
-### 🐍 My GitHub Contribution Snake
+### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%"/>
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%"/>
